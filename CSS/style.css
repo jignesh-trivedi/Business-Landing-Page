@@ -72,12 +72,16 @@ body{
 .first-section-img-email{
     height: 4vh;
     position: absolute;
-    top: 462px;
-    left: 740px;
+    top: 487px;
+    left: 864px;
 }
 
 .first-section-input{
-    padding: 15px 20px;
+    border: none;
+    padding: 10px 20px;
+    position: absolute;
+    top: 484px;
+    left: 1105px;
 }
 
 .first-section-input::placeholder{
