@@ -78,10 +78,8 @@ body{
 
 .first-section-input{
     border: none;
-    padding: 10px 20px;
-    position: absolute;
-    top: 484px;
-    left: 1105px;
+    padding: 15px 20px;
+    
 }
 
 .first-section-input::placeholder{
@@ -98,8 +96,8 @@ body{
     border: none;
     padding: 10px 20px;
     position: absolute;
-    top: 456px;
-    left: 990px;
+    top: 485px;
+    left: 1100px;
 }
 
 .navbar, .first-section{
@@ -144,6 +142,26 @@ body{
     position: absolute;
     top: 1280px;
     left: 630px;
+}
+
+.circle-one{
+    border: 1px solid #fff;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: absolute;
+    top: 1272px;
+    left: 629px;
+}
+
+.circle-two{
+    border: 1px solid #fff;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top: 1262px;
+    left: 620px;
 }
 
 .section-4{
