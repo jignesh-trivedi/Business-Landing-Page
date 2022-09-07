@@ -72,8 +72,8 @@ body{
 .first-section-img-email{
     height: 4vh;
     position: absolute;
-    top: 462px;
-    left: 740px;
+    top: 487px;
+    left: 864px;
 }
 
 .first-section-input{
@@ -94,8 +94,8 @@ body{
     border: none;
     padding: 10px 20px;
     position: absolute;
-    top: 456px;
-    left: 990px;
+    top: 484px;
+    left: 1105px;
 }
 
 .navbar, .first-section{
